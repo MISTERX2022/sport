@@ -32,32 +32,22 @@
         "name": "Canal 5 Tucuman",
         "icon": "https://www.reportv.com.ar/buscador/img/Logos/6298876.jpg",
         "uri": "nNGAIUf1BYnD61d66Neg35eWKsJabJvTtjitSYZS1LYOu3JthvmFV/6xJcFolVuY"
-      }
+        }
     ]
   },
   {
-    "name": "NOTICIAS",
-  "mode": false,
-    "lista": [
-      {
-        "icon": "https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true",
-        "name": "A24",
-        "uri": "aHR0cHM6Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0FtZXJpY2EyNC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0FtZXJpY2EyNC5tcGQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8"
-      }
-    ]
-  },
-  {
-    "name": "CULTURA",
+    "name": "INTERIOR DE ARGENTINA",
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
-        "name": "FILMS & ARTS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_2A/Film_Arts.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "rOPFGwL92lMqtHVi3VpAgHmNeU0riPWKuKPEGIHPSRjtnaZzNVi7KWLNPzJRXVXM"
+        "name": "CANAL 4 SAN JUAN",
+        "icon": "http://167.114.129.223/web/webp/logos/4sanjuan.jpg",
+        "uri": "MioiCZcjobL9nMW82phEsyieRoqiN9eUVRvB3q7Ki07QBbS/92sEpzIWRyjFWtTlp4O0EPAg89VU\n4B8rbAN5QgAE6jJoSdQpuzW/VcOKsjw="
+      },
+      {
+        "name": "Canal 5 Tucuman",
+        "icon": "https://www.reportv.com.ar/buscador/img/Logos/6298876.jpg",
+        "uri": "nNGAIUf1BYnD61d66Neg35eWKsJabJvTtjitSYZS1LYOu3JthvmFV/6xJcFolVuY"
       }
     ]
   }
