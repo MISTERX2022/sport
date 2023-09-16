@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -44,7 +44,7 @@
         "icon": "https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIMRxmuxyJ6997mvCzd5aPYejg+x0WdXaQOg
 DpfonoNZka4g64NRb9zWjQ3kjJpyM1hbCx5K5PfHSWtSqGc4swMg",
-        "drm_scheme": "clearkey",
+"drm_scheme": "clearkey",
         "drm_license_url": "3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8"
       }
     ]
