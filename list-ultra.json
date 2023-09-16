@@ -35,8 +35,8 @@
       }
     ]
   },
-  ´{
-    "name":NOTICIAS",
+  {
+    "name": "NOTICIAS",
   "mode":false,
     "lista": [
       {
