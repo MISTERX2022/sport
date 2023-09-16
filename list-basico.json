@@ -1,6 +1,6 @@
 [
   {
-    "name": "Argentina",
+    "name": "ARGENTINA",
     "mode": false,
     "lista": [
       {
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "name": "INTERIOR DE ARGENTINA",
+    "name": "NOTICIAS",
     "mode": false,
     "lista": [
       {
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "name": "nueva categoria",
+    "name": "DEPORTES",
     "mode": false,
     "lista": [
       {
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "name": "nuevA Ctegoria",
+    "name": "INFANTILES",
     "mode": false,
     "lista": [
       {
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "name": "nueva catego",
+    "name": "CULTURA",
     "mode": false,
     "lista": [
       {
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "name": "nueva cate",
+    "name": "VIP",
     "mode": false,
     "lista": [
       {
@@ -211,7 +211,7 @@
         ]
       },
       {
-        "name": "INTERIOR DE ARGENTINA",
+        "name": "VARIEDAD",
         "mode": false,
         "lista": [
           {
