@@ -61,9 +61,11 @@
     "mode": false,
     "lista": [
       {
-        "name": "CANAL 4 SAN JUAN",
-        "icon": "http://167.114.129.223/web/webp/logos/4sanjuan.jpg",
-        "uri": "MioiCZcjobL9nMW82phEsyieRoqiN9eUVRvB3q7Ki07QBbS/92sEpzIWRyjFWtTlp4O0EPAg89VU\n4B8rbAN5QgAE6jJoSdQpuzW/VcOKsjw="
+        "name": "TN",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIPbxOuaaPBjTHdlyaF+Z72bOGZuQvJJ+J8IywiXpP3qGiT9FZ4SzbhX/i0OrU4uhTxE0zDrjIb6qbPcXApWUTcss",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "M2QBJIdFMVzXgKDoztlotvHNWvimb+cD6dDypcsqJyz5Nh2lTcSHe3hcrJvJ1/KJok+3in7RtPV//sn+c+sSy+S1BncoqDX3cjcHFhqQqVySAHL9hIMSkjQTHsr+jI8GR2dHe0UE/xbk87lrTlKKwr9Lfvdy4udg2YvfUkXYLaPJx4jXZQhKQ=="
       },
       {
         "name": "Canal 5 Tucuman",
