@@ -44,8 +44,21 @@
         "icon": "https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true",
         "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIMRxmuxyJ6997mvCzd5aPYejg+x0WdXaQOg
 DpfonoNZka4g64NRb9zWjQ3kjJpyM1hbCx5K5PfHSWtSqGc4swMg",
-"drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_url": "3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8"
+      }
+    ]
+  },
+  {
+    "name": "CULTURA",
+    "mode": false,
+    "lista": [
+      {
+        "name"FILMS & ARTS".
+        "icon": "https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
+        "uri": "9/WnHxPGNG4h6ccro0nxYYut606DHAtEpDXJP828UIOu2f6JN0uwxCgYvw/gfq7xchB+vd1IKPos
+IQ6f8VUf+agjmIv8eMycHAC9iC9NdPrPSngnzVwTlNYfCWfzPHER",
+        "drm_license_url": "rOPFGwL92lMqtHVi3VpAgHmNeU0riPWKuKPEGIHPSRjtnaZzNVi7KWLNPzJRXVXM"
       }
     ]
   }
