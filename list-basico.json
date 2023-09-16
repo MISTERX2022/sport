@@ -37,10 +37,10 @@
   },
   {
     "name": "NOTICIAS",
-  "mode":false,
+  "mode": false,
     "lista": [
       {
-        "name": "A24"
+        "name": "A24",
         "icon": "https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true",
         "uri": "A7l7dxcXzZ4BvoGRvOcqSGFrOzml0IpnsTlUb2UtiMmEUI+R0SZV1OEkXpekWjK4gso5qrYd6mO9Y7NTrlgLKs5bPOL+uBR3618W54j8f+DuqNwtBVZLOfqMABKZxXdR"
         }
